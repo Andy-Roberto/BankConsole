@@ -1,0 +1,26 @@
+[
+  {
+    "Department": "IT",
+    "ID": 1,
+    "Name": "Andy",
+    "Email": "andyroberto@gmail.com",
+    "RegisterDate": "2022-10-29T06:43:32.919138-05:00",
+    "Balance": 1050.0
+  },
+  {
+    "Department": "El",
+    "ID": 2,
+    "Name": "Roberto",
+    "Email": "roberto@gmail.com",
+    "RegisterDate": "2022-10-29T07:48:21.3890212-05:00",
+    "Balance": 10000.0
+  },
+  {
+    "TaxRegime": "A",
+    "ID": 3,
+    "Name": "Maria",
+    "Email": "maria@gmail.com",
+    "RegisterDate": "2022-10-29T20:55:59.8729885-05:00",
+    "Balance": 5000.0
+  }
+]
