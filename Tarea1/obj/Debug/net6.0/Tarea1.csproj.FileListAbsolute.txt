@@ -1,0 +1,15 @@
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\bin\Debug\net6.0\Tarea1.exe
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\bin\Debug\net6.0\Tarea1.deps.json
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\bin\Debug\net6.0\Tarea1.runtimeconfig.json
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\bin\Debug\net6.0\Tarea1.dll
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\bin\Debug\net6.0\Tarea1.pdb
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\obj\Debug\net6.0\Tarea1.csproj.AssemblyReference.cache
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\obj\Debug\net6.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\obj\Debug\net6.0\Tarea1.AssemblyInfoInputs.cache
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\obj\Debug\net6.0\Tarea1.AssemblyInfo.cs
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\obj\Debug\net6.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\obj\Debug\net6.0\Tarea1.dll
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\obj\Debug\net6.0\refint\Tarea1.dll
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\obj\Debug\net6.0\Tarea1.pdb
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\obj\Debug\net6.0\Tarea1.genruntimeconfig.cache
+C:\Users\Andy\Documents\Proyectos\C#\Tarea1\obj\Debug\net6.0\ref\Tarea1.dll
