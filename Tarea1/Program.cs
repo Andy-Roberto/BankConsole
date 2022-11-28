@@ -10,7 +10,10 @@ namespace  Programa
             int [] billetes = new int[5] {500,200,100,50,20};
             int [] monedas = new int[3] {10,5,1};
             List<int> dinero = new List<int>();
+            List<int> dinero2;
+            Time.deltatime()
             bool check = false;
+            
             while(check==false){
                 Console.WriteLine("-----------------Banco CDIS -------------------");
                 Console.WriteLine("1. Ingresar la cantidad de retiros hechos por los usuarios.");
@@ -60,6 +63,7 @@ namespace  Programa
                         int numero_ = item;
                         int billetes_=0;
                         int monedas_= 0;
+                        
                         foreach(var item2 in billetes){
                             int resultado = numero_/item2;
                             billetes_+=resultado;
@@ -88,6 +92,7 @@ namespace  Programa
                 }
                 Console.WriteLine("Presiona 'enter' para continuar ...");
                 Console.ReadLine();
+                
             }
         }
         static int numero(){
@@ -102,7 +107,7 @@ namespace  Programa
                 Console.WriteLine("No se ha escrito correctamente. Vuelve a ingresar el dato. ");
             }}
             return valor;
-
+            
         }
     }
 }

@@ -47,7 +47,7 @@ AS
 GO
 
 DECLARE @retorno VARCHAR (100) =NULL
-EXEC InsertBankTransaction  1,2,2000,NULL,@retorno Output;
+EXEC InsertBankTransaction  1,2,500,NULL,@retorno Output;
 Print @retorno
 Exec SelectAccount;
 
@@ -65,4 +65,6 @@ AS
         WHERE ID = @ClientID;
     END
 GO
-Exec SelectClient;
+Exec SelectClient @ClientID = 10;
+
+BACKUP DATABASE Bank to disk ='H:\Bank1231.bak';

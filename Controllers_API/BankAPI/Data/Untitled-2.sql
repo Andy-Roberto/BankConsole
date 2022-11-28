@@ -1,0 +1,1 @@
+-- dotnet ef dbcontext scaffold "Server=localhost;Database=Bank;Encrypt=False;Trusted_connection=True;Connection Timeout=30;" Microsoft.EntityFrameworkCore.SqlServer --context-dir .\Data --output-dir .\Data\BankModels
